@@ -34,11 +34,3 @@ npm run dev
 npm run build
 ```
 
-## 🌐 Deploy to Vercel
-1. Push to GitHub
-2. Go to vercel.com → Import project
-3. Select this repo → Deploy
-4. Done — live in 60 seconds!
-
-## 📬 Contact
-- WhatsApp: 0970050032 / 0970050025
